@@ -25,8 +25,7 @@ Item Microservice API is a Spring Boot web application for managing users and it
 ### 1. Clone the repository
 
 ```bash
-git clone 
-cd 
+git clone https://github.com/Ghaspar009/item-microservice-api.git
 ```
 
 ### 2. Create a `.env` file
